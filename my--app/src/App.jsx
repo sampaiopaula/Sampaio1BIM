@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <body class="fundo">
+     <div class="fundo">
     <div class="comteiner">
     <div class="comteinerc">
     
@@ -69,5 +69,5 @@ function App() {
         </p><p> MG/ 9888898989</p></div>
 </div>
 </footer>
-</body>
-</html>
+</div>
+)}
